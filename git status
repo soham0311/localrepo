@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3623413..c44941d 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,4 @@[m
+ <p>This is Repo</p>[m
+[31m-<p>This is a new Feature (button)</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>This is a new Feature (dropdown)</p>[m
+[32m+[m[32m<p>This is a new Feature (button)</p>[m
+[41m+[m
